@@ -34,3 +34,9 @@ git commit --amend -m "rename commit"
 ```
 git push --force origin <nombre-de-tu-rama> (en caso hayas subido cambios)
 ```
+
+# _Bajar Cambios_
+```
+git pull origin nombre-de-la-rama
+```
+
